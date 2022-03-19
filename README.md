@@ -1,6 +1,5 @@
 ### Ola! Eu sou o Edgardo
-- 🎓 Estudante de Tecnologia 
-- 📔 Estudando JavaScript
+- 🎓 Estudando sobre Tecnologia 😉 
 
 
 <div align="center">
