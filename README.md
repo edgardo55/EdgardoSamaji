@@ -23,4 +23,4 @@ I am a Computer Science student looking for opportunities and collaboration in p
 💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 <br>
 <br>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edgardo-samaji-84b4a51b7/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/edgardo-samaji-84b4a51b7/](https://www.linkedin.com/in/edgardo-samaji-0719382a7/))
